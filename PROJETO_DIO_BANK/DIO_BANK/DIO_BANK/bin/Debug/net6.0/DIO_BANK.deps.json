@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DIO_BANK/1.0.0": {
+        "dependencies": {
+          "DIO_BANK_CLASSES": "1.0.0",
+          "DIO_BANK_ENUM": "1.0.0"
+        },
+        "runtime": {
+          "DIO_BANK.dll": {}
+        }
+      },
+      "DIO_BANK_CLASSES/1.0.0": {
+        "dependencies": {
+          "DIO_BANK_ENUM": "1.0.0"
+        },
+        "runtime": {
+          "DIO_BANK_CLASSES.dll": {}
+        }
+      },
+      "DIO_BANK_ENUM/1.0.0": {
+        "runtime": {
+          "DIO_BANK_ENUM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO_BANK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DIO_BANK_CLASSES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DIO_BANK_ENUM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

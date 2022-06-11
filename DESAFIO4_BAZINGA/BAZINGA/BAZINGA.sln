@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAZINGA", "BAZINGA\BAZINGA.csproj", "{C57A06C0-2D2E-4677-AAD6-8AF65F685F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57A06C0-2D2E-4677-AAD6-8AF65F685F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57A06C0-2D2E-4677-AAD6-8AF65F685F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57A06C0-2D2E-4677-AAD6-8AF65F685F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57A06C0-2D2E-4677-AAD6-8AF65F685F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33A35475-DF3D-4022-84C4-30D533B80F11}
+	EndGlobalSection
+EndGlobal
