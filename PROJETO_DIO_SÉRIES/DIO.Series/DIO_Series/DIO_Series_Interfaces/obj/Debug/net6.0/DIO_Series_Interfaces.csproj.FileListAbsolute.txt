@@ -1,0 +1,12 @@
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\bin\Debug\net6.0\DIO_Series_Interfaces.deps.json
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\bin\Debug\net6.0\DIO_Series_Interfaces.dll
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\bin\Debug\net6.0\DIO_Series_Interfaces.pdb
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\obj\Debug\net6.0\DIO_Series_Interfaces.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\obj\Debug\net6.0\DIO_Series_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\obj\Debug\net6.0\DIO_Series_Interfaces.AssemblyInfoInputs.cache
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\obj\Debug\net6.0\DIO_Series_Interfaces.AssemblyInfo.cs
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\obj\Debug\net6.0\DIO_Series_Interfaces.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\obj\Debug\net6.0\DIO_Series_Interfaces.dll
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\obj\Debug\net6.0\refint\DIO_Series_Interfaces.dll
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\obj\Debug\net6.0\DIO_Series_Interfaces.pdb
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Interfaces\obj\Debug\net6.0\ref\DIO_Series_Interfaces.dll

@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DIO_Series_Classes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DIO_Series_Enum": "1.0.0",
+          "DIO_Series_Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DIO_Series_Classes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DIO_Series_Classes.dll": {}
+        }
+      },
+      "DIO_Series_Enum/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DIO_Series_Enum.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DIO_Series_Enum.dll": {}
+        }
+      },
+      "DIO_Series_Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DIO_Series_Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DIO_Series_Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO_Series_Classes/1.0.0": {
+      "type": "project",
+      "path": "../DIO_Series_Classes/DIO_Series_Classes.csproj",
+      "msbuildProject": "../DIO_Series_Classes/DIO_Series_Classes.csproj"
+    },
+    "DIO_Series_Enum/1.0.0": {
+      "type": "project",
+      "path": "../DIO_Series_Enum/DIO_Series_Enum.csproj",
+      "msbuildProject": "../DIO_Series_Enum/DIO_Series_Enum.csproj"
+    },
+    "DIO_Series_Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../DIO_Series_Interfaces/DIO_Series_Interfaces.csproj",
+      "msbuildProject": "../DIO_Series_Interfaces/DIO_Series_Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DIO_Series_Classes >= 1.0.0",
+      "DIO_Series_Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Windows 10\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\REPOSITORIOS\\MODELOS-ESTUDO\\PROJETO_DIO_SÉRIES\\DIO.Series\\DIO_Series\\DIO_Series\\DIO_Series.csproj",
+      "projectName": "DIO_Series",
+      "projectPath": "C:\\REPOSITORIOS\\MODELOS-ESTUDO\\PROJETO_DIO_SÉRIES\\DIO.Series\\DIO_Series\\DIO_Series\\DIO_Series.csproj",
+      "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+      "outputPath": "C:\\REPOSITORIOS\\MODELOS-ESTUDO\\PROJETO_DIO_SÉRIES\\DIO.Series\\DIO_Series\\DIO_Series\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\REPOSITORIOS\\MODELOS-ESTUDO\\PROJETO_DIO_SÉRIES\\DIO.Series\\DIO_Series\\DIO_Series_Classes\\DIO_Series_Classes.csproj": {
+              "projectPath": "C:\\REPOSITORIOS\\MODELOS-ESTUDO\\PROJETO_DIO_SÉRIES\\DIO.Series\\DIO_Series\\DIO_Series_Classes\\DIO_Series_Classes.csproj"
+            },
+            "C:\\REPOSITORIOS\\MODELOS-ESTUDO\\PROJETO_DIO_SÉRIES\\DIO.Series\\DIO_Series\\DIO_Series_Interfaces\\DIO_Series_Interfaces.csproj": {
+              "projectPath": "C:\\REPOSITORIOS\\MODELOS-ESTUDO\\PROJETO_DIO_SÉRIES\\DIO.Series\\DIO_Series\\DIO_Series_Interfaces\\DIO_Series_Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

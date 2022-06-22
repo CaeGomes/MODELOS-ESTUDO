@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DIO_Series/1.0.0": {
+        "dependencies": {
+          "DIO_Series_Classes": "1.0.0",
+          "DIO_Series_Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "DIO_Series.dll": {}
+        }
+      },
+      "DIO_Series_Classes/1.0.0": {
+        "dependencies": {
+          "DIO_Series_Enum": "1.0.0",
+          "DIO_Series_Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "DIO_Series_Classes.dll": {}
+        }
+      },
+      "DIO_Series_Enum/1.0.0": {
+        "runtime": {
+          "DIO_Series_Enum.dll": {}
+        }
+      },
+      "DIO_Series_Interfaces/1.0.0": {
+        "runtime": {
+          "DIO_Series_Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO_Series/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DIO_Series_Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DIO_Series_Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DIO_Series_Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

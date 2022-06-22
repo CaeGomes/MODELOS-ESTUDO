@@ -1,0 +1,12 @@
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\bin\Debug\net6.0\DIO_Series_Enum.deps.json
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\bin\Debug\net6.0\DIO_Series_Enum.dll
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\bin\Debug\net6.0\DIO_Series_Enum.pdb
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\obj\Debug\net6.0\DIO_Series_Enum.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\obj\Debug\net6.0\DIO_Series_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\obj\Debug\net6.0\DIO_Series_Enum.AssemblyInfoInputs.cache
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\obj\Debug\net6.0\DIO_Series_Enum.AssemblyInfo.cs
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\obj\Debug\net6.0\DIO_Series_Enum.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\obj\Debug\net6.0\DIO_Series_Enum.dll
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\obj\Debug\net6.0\refint\DIO_Series_Enum.dll
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\obj\Debug\net6.0\DIO_Series_Enum.pdb
+C:\REPOSITORIOS\MODELOS-ESTUDO\PROJETO_DIO_SÉRIES\DIO.Series\DIO_Series\DIO_Series_Enum\obj\Debug\net6.0\ref\DIO_Series_Enum.dll
